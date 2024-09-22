@@ -1,0 +1,20 @@
+
+:root {
+  --main-color: #6300c7;
+  --text-color:#FFF;
+  --link-color:#6300c7;
+  --btn-color:#FFF;
+  --accent-color:#8000ff;
+  --bg-main-color:#000;
+  --bg-second-color:#310062;
+}
+
+/* Темная тема */
+.dark-theme {
+  --main-color: #78a4b0;
+  --text-color:#000;
+  --link-color: #78a4b0;
+  --accent-color:#1dacd6;
+  --btn-color:#000;
+  --bg-second-color:#d0d0d0;
+}
